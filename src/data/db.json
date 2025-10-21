@@ -1,0 +1,58 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "product 1",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore dicta sequi porro? Voluptas, consectetur eos. Architecto at labore sint corporis earum accusamus repellendus minima expedita, omnis nisi, sit repellat odio?",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&height=900&width=1600&fit=bounds",
+      "price": 231
+    },
+    {
+      "id": "2",
+      "title": "product 2",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore dicta sequi porro? Voluptas, consectetur eos. Architecto at labore sint corporis earum accusamus repellendus minima expedita, omnis nisi, sit repellat odio?",
+      "image": "https://www.driva.com.au/static/49d79bfb73b78abe07431db63194f330/03cba/fb880c0e-02b3-42e8-ac95-d6e612615a05_image8.png",
+      "price": 2341
+    },
+    {
+      "id": "3",
+      "title": "product 3",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore dicta sequi porro? Voluptas, consectetur eos. Architecto at labore sint corporis earum accusamus repellendus minima expedita, omnis nisi, sit repellat odio?",
+      "image": "https://cdn.prod.website-files.com/62220cdd2c2969eb27d41a60/62e4f6652c6e421df80eadb5_prestige-gallery-luxury-car-rental-lamborghini-urus.jpg",
+      "price": 3
+    },
+    {
+      "id": "4",
+      "title": "product 4",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore dicta sequi porro? Voluptas, consectetur eos. Architecto at labore sint corporis earum accusamus repellendus minima expedita, omnis nisi, sit repellat odio?",
+      "image": "https://cdn.abcotvs.com/dip/images/12759790_hypatia-h_fac40a3d60dff2415c09917e29e49b53-h_80f233feb84cf2f30a294f91eb18e0b7.JPG?w=1600",
+      "price": 123123
+    },
+    {
+      "id": "391",
+      "title": "product 5",
+      "discription": "this is new product that create with dashboard panel",
+      "image": "https://carwow-uk-wp-1.imgix.net/Bugatti-Centodieci.jpg?auto=format&cs=tinysrgb&fit=crop&h=&ixlib=rb-1.1.0&q=60&w=1600",
+      "price": "3332222"
+    },
+    {
+      "id": "347",
+      "title": "product 6 ",
+      "discription": "this is new product that create with dashboard panel",
+      "image": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/2023/08/resize_p90467418_highres_world-s-media-share-2.jpg",
+      "price": "332224444"
+    },
+    {
+      "id": "529",
+      "title": "product 7",
+      "discription": "this product jadide",
+      "image": "https://appraisalengine.com/wp-content/uploads/Luxury-Car-Brands-scaled.jpg",
+      "price": "333333337777777"
+    }
+  ] , 
+  "Discount":[
+    {"id":"1" , "code" : "code 1" , "percentage" : 10},
+    {"id":"2" , "code" : "code 2" , "percentage" : 20},
+    {"id":"3" , "code" : "code 3" , "percentage" : 30}
+  ]
+}
