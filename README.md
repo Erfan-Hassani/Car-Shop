@@ -5,6 +5,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+This project is not yet completed and it is supposed to use 
+        *prisma
+        *shad-cn
+        *clerk auth
+ technologies
+
+Use the following code to use Mock database:
+
+        npx json-server --watch src/data/db.json --port 8000
+
 First, run the development server:
 
 ```bash
@@ -41,12 +51,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-This project is not yet completed and it is supposed to use 
-        *prisma
-        *shad-cn
-        *clerk auth
- technologies
-
-Use the following code to use Mock database:
-
-        npx json-server --watch src/data/db.json --port 8000
