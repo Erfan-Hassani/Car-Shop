@@ -38,3 +38,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 >>>>>>> 788f4cb (Initial commit from Create Next App)
+
+
+
+This project is not yet completed and it is supposed to use 
+        *prisma
+        *shad-cn
+        *clerk auth
+ technologies
+
+Use the following code to use Mock database:
+
+        npx json-server --watch src/data/db.json --port 8000
